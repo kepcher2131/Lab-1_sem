@@ -37,7 +37,6 @@ try:
 
     for i in range(row_q):
         for j in range(row_q):
-            
             A[i][j] = random.randint(-10,10)
             
     print("A")
